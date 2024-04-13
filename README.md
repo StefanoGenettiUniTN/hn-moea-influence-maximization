@@ -11,13 +11,7 @@ The goal of influence maximization (IM) is to reach the maximum number of entiti
 ## Requirements
 Before getting started, make sure you have installed all the requirements.
 ```
-pip install inspyred
-pip install hypergraphx
-pip install pymoo
-pip install tqdm
-pip install pandas
-pip install numpy
-pop install matplotlib
+pip install -r requirements.txt
 ```
 
 ## Structure

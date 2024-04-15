@@ -46,6 +46,7 @@ Authors:
 - Eros Ribaga, MSc Student University of Trento (Italy), eros.ribaga@studenti.unitn.it
 - Elia Cunegatti, Ph.D Student University of Trento (Italy), elia.cunegatti@unitn.it
 - Quintino Francesco Lotito, Ph.D Student University of Trento (Italy), quintino.lotito@unitn.it
+- Alberto Montresor, Full Professor University of Trento (Italy), alberto.montresor@unitn.it
 - Giovanni Iacca, Associate Professor University of Trento (Italy), giovanni.iacca@unitn.it
 
 For every type of doubts/questions about the repository please do not hesitate to contact us.
